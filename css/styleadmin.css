@@ -1,0 +1,237 @@
+
+html, body, div, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+}
+
+@font-face {
+	font-family: 'Lobster1.1Regular';
+	src: url('../fonts/Lobster_1.1_-webfont.eot');
+	src: local('?'), url('../fonts/Lobster_1.1_-webfont.woff') format('woff'), url('../fonts/Lobster_1.1_-webfont.ttf') format('truetype'), url('../fonts/Lobster_1.1_-webfont.svg#webfont30G9S4nm') format('svg');
+	font-weight: normal;
+	font-style: normal; }
+    
+@font-face {
+	font-family: 'RalewayThin';
+	src: url('../fonts/raleway_thin-webfont.eot');
+	src: local('?'), url('../fonts/raleway_thin-webfont.woff') format('woff'), url('../fonts/raleway_thin-webfont.ttf') format('truetype'), url('../fonts/raleway_thin-webfont.svg#webfont') format('svg');
+	font-weight: normal;
+	font-style: normal; }
+
+@font-face { font-family: "League Gothic"; font-weight: bold; src: url('../fonts/League-Gothic.otf'); }
+
+body {
+padding-top: 10px;
+font-family:Segoe UI, Arial, Sans-Serif; 
+font-size:12px; 
+margin:0;
+background-color: #ffffff;
+font-family:Segoe UI, Arial, Sans-Serif; 
+background: #fffde4 url(../img/bodyBg.jpg) repeat-x;
+background-attachment: scroll;
+background-repeat: repeat-x;
+}
+
+#kesatuan {
+background-repeat: no-repeat;
+padding: 0;
+padding-top: 5px;
+margin:0px auto auto auto;
+width: 870px;
+border: 0px solid rgba(0, 0, 0, 0.9);
+}
+#logo-text {
+	color: #B95794;
+	text-decoration: none;
+}
+
+.fittable {
+width: 655px;
+}
+
+h1{ 
+  font: 30px 'Lobster1.1Regular', Arial, sans-serif; 
+  font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	margin: 0px;
+	vertical-align: baseline;
+	letter-spacing: normal;
+	word-spacing: normal;
+}
+
+h4{ 
+  font: 40px 'Lobster1.1Regular', Arial, sans-serif; 
+  font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	margin: 0px;
+	vertical-align: baseline;
+	letter-spacing: normal;
+	word-spacing: normal;
+}
+
+h4 span{ 
+  font: 40px RalewayThin, Arial, sans-serif; 
+  letter-spacing: -4px;
+  font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	margin: 0px;
+	padding: 0px;
+	vertical-align: baseline;
+	word-spacing: normal; 
+}
+  
+#kumpulan{
+padding: 0;
+width: 870px;
+margin:0px auto auto auto;
+background: #ffffff;
+-moz-border-radius: 15px;
+-khtml-border-radius: 15px;
+-webkit-border-radius: 15px;
+border-radius: 15px;
+padding-left: 5px;
+padding-right: 5px;
+padding-bottom: 10px;
+}
+
+li {
+list-style-type:none;
+}
+.atas {
+padding-top: 5px;
+width: 870px;
+height: 30px;
+border-bottom: 1px #FF4E00 dashed;
+clear: both;
+}
+
+#kirikanan{
+width: 870px;
+background-color: #ffffff;
+margin: 0 auto;
+}
+
+#kirikanan #kiri {
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 5px;
+padding-bottom: 5px;
+width: 180px;
+float: left;
+}
+
+#kirikanan #kanan{
+padding-top: 6px;
+padding-left: 10px;
+border-left: 1px dashed #FF4E00;
+float: left;
+}
+
+#clearer {
+  height: 10px;
+  width: 870px;
+	clear: both;
+}
+
+.kakiku{
+border-top: 1px #FF4E00 dashed;
+padding-top: 5px;
+width: 870px;
+}
+
+tr{
+background-color:#E6E6E6;
+color:#000;
+}
+th{
+padding : 3px 3px 3px 3px;
+}
+
+td{
+padding : 3px 3px 3px 3px;
+background-color:#fff;
+color:#000000;
+}
+
+.cButton{
+color:white;
+padding:3px 10px 3px 10px;
+background-color:#FF4E00; 
+font-weight:bold;
+font-size:12px;
+text-decoration:none;
+-moz-border-radius:6px;
+-khtml-border-radius: 6px;
+-webkit-border-radius: 6px;
+border-radius:6px;
+display:block;
+}
+
+.kotak{
+border: 0px dashed #272727;
+-moz-border-radius:6px;
+-khtml-border-radius: 6px;
+-webkit-border-radius: 6px;
+border-radius:6px;
+}
+
+
+/**** LINKS ****/
+#kiri a {
+	color: #FF4E00;
+	text-decoration: none;
+}
+
+#kiri a:hover {
+  color : #A4A5A4;
+	text-decoration: none;
+}
+
+#kanan a {
+	color: #FF4E00;
+	text-decoration: none;
+}
+
+#kanan a:hover {
+  color : #818281;
+	text-decoration: none;
+}
+/**** end LINKS ****/
+
+
+/*------top menu---------*/
+ul.menu {
+list-style-type:none; float:right; display:block; width:870px; height:18px; 
+clear:both; margin-top: 0px; padding:0;}
+
+ul.menu li {
+display:inline;}
+
+a.nav:link, a.nav:visited {
+display:block; float:left; padding:4px 11px 0 11px; margin:0;width: auto; height:18px; text-align:center; line-height:20px; font-weight:bold; font-size:12px;
+text-decoration:none; color:#562231;}
+
+a.nav:hover {
+text-decoration: underline;
+}

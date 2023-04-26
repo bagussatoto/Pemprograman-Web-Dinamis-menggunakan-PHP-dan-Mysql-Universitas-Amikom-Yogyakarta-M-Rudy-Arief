@@ -27,7 +27,13 @@
   Dalam buku tersebut, Terdapat CD dan saya gabungkan ke dalam github.
 
   
-     Hingga saat ini pemrograman web masih didominasi oleh PHP & MySQL sebagai pondasi dasar setiap aplikasi website yang dibuat. Buku ini mencoba membahas lengkap pemrograman web dengan memanfaatkan PHP sebagai programming language dan MySQL sebagai databasenya. Pembahasan buku ini terkait dengan pemahaman dasar pemrograman web, pengenalan komponen hingga pemahaam logika pemrograman dan pengaplikasiannya dalam pembuatan aplikasi. Garis besar dari materi buku ini meliputi : 
+     Hingga saat ini pemrograman web masih didominasi oleh PHP & MySQL sebagai pondasi dasar setiap
+     aplikasi website yang dibuat. Buku ini mencoba membahas lengkap pemrograman web dengan
+     memanfaatkan PHP sebagai programming language dan MySQL sebagai databasenya. Pembahasan buku
+     ini terkait dengan pemahaman dasar pemrograman web, pengenalan komponen hingga pemahaam 
+     logika pemrograman dan pengaplikasiannya dalam pembuatan aplikasi. Garis besar dari materi 
+     buku ini meliputi : 
+
      1. pemrograman web 
      2. HTML 
      3. PHP 

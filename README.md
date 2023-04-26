@@ -47,7 +47,7 @@
 
 |              |                                           |
 |--------------|------------------------------------------------------|
-|    Judul     |    Pemprograman Web Dinamis Menggunkan PHP dan MySQL |
+|    Judul     |    [Pemprograman Web Dinamis Menggunkan PHP dan MySQL]((https://openlibrary.telkomuniversity.ac.id/home/catalog/id/21889/slug/pemrograman-web-dinamis-menggunakan-php-dan-mysql.html)) |
 |    Penerbit  |    [M Rudyanto Arief](https://www.bukukita.com/searchresult.php?page=1&id=2&match=1&key=M.+Rudyanto+Arief+%28STIMIK+AMIKOM%29)  |
 |  No ISBN     |    9789792927597  |
 |    Penerbit  |    [ANDI PUBLISHER](https://www.bukukita.com/searchresult.php?id=3&key=35)  |
@@ -57,6 +57,7 @@
 | Jenis Cover  |    Soft Cover     |
 | Kategori     |    Web Programming     |
 | Bahasa       |    Indonesia      |
+|   Harga      | [Rp. 120.000](https://www.bukukita.com/Komputer-dan-Internet/Web-Programming/106418-Pemrograman-Web-Dinamis-Menggunakan-PHP-dan-MySQL.html)    |
 
 
  <!-- Garis Lurus -->
@@ -64,15 +65,13 @@
 <!-- End -->
     
 
-## Buku Buku
+<!-- ## Buku Buku
    
 | Judul Buku    | Harga Buku |
 |---------------|-------------|
 | [Buku Pemprograman Web Dinamis menggunakan PHP dan Mysql](https://openlibrary.telkomuniversity.ac.id/home/catalog/id/21889/slug/pemrograman-web-dinamis-menggunakan-php-dan-mysql.html) | [Rp. 120.000](https://www.bukukita.com/Komputer-dan-Internet/Web-Programming/106418-Pemrograman-Web-Dinamis-Menggunakan-PHP-dan-MySQL.html) |
 
-<!-- Garis Lurus -->
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
-<!-- End -->
+-->
 
 
 ## Berkontribusi

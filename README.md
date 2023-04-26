@@ -25,7 +25,26 @@
 # Toko Buku Online
    **Toko Buku Online** ini saya pelajari dari buku  **Pemprograman Web Dinamis menggunakan PHP dan Mysql** , sehingga saya gabungkan kedalam repository.
   Dalam buku tersebut, Terdapat CD dan saya gabungkan ke dalam github.
-   
+
+  
+     Hingga saat ini pemrograman web masih didominasi oleh PHP & MySQL sebagai pondasi dasar setiap aplikasi website yang dibuat. Buku ini mencoba membahas lengkap pemrograman web dengan memanfaatkan PHP sebagai programming language dan MySQL sebagai databasenya. Pembahasan buku ini terkait dengan pemahaman dasar pemrograman web, pengenalan komponen hingga pemahaam logika pemrograman dan pengaplikasiannya dalam pembuatan aplikasi. Garis besar dari materi buku ini meliputi : 
+     1. pemrograman web 
+     2. HTML 
+     3. PHP 
+     4. variabel dan konstanta 
+     5. type data dan operator 
+     6. Struktur kendali 
+     7. Array 
+     8. Fungsi 
+     9. Form 
+     10. Session 
+     11. Database MySQL dan koneksi PHP 
+     12. Pembuatan web sederhana 
+     13. CMS (Content Management System) 
+     14. Studi kasus e-commerce toko buku online 
+     15. Studi kasus e-commerce toko handphone online
+
+
 <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
@@ -37,6 +56,7 @@
      Dosen Informatika
      Falkultas Ilmu Komputer
      Universitas Amikom Yogyakarta
+
 
  <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 

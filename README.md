@@ -41,13 +41,23 @@
  <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
-    
+
+## Deskripsi Buku
+
+
+|              |                                           |
+|--------------|------------------------------------------------------|
+|    Judul     |    Pemprograman Web Dinamis Menggunkan PHP dan MySQL |
+|    Penerbit  |    [M Rudyanto Arief](https://www.bukukita.com/searchresult.php?page=1&id=2&match=1&key=M.+Rudyanto+Arief+%28STIMIK+AMIKOM%29)  |
+|  No ISBN     |    9789792927597  |
+|    Penerbit  |    [ANDI PUBLISHER](https://www.bukukita.com/searchresult.php?id=3&key=35)  
+
+
+
  <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
     
-
-
 
 ## Buku Buku
    

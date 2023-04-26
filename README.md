@@ -2,14 +2,14 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
-<h1 align="center">Action Fitnes</h1>
+<h1 align="center">Pemprograman Web Dinamis</h1>
 <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
 <!-- Gambar -->
 <p align="center">
-  <img width="250" src="https://user-images.githubusercontent.com/87259393/218282099-fe2939b5-b4dc-4af7-9bab-87f619f4662e.jpg" />  
+  <img width="250" src="./dashboard/img/Buku.jpg" />  
   </p>
   
 
@@ -31,7 +31,8 @@
 <!-- End -->
 
 
-##  Siapa yang membuat buku ini?
+##  Penulis Buku 
+
      M Rudy Arief
      Dosen Informatika
      Falkultas Ilmu Komputer
@@ -41,6 +42,12 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
     
+ <!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+    
+
+
 
 ## Buku Buku
    

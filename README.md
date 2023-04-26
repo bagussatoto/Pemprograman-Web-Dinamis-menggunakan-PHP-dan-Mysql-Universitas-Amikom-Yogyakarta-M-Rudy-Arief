@@ -50,8 +50,13 @@
 |    Judul     |    Pemprograman Web Dinamis Menggunkan PHP dan MySQL |
 |    Penerbit  |    [M Rudyanto Arief](https://www.bukukita.com/searchresult.php?page=1&id=2&match=1&key=M.+Rudyanto+Arief+%28STIMIK+AMIKOM%29)  |
 |  No ISBN     |    9789792927597  |
-|    Penerbit  |    [ANDI PUBLISHER](https://www.bukukita.com/searchresult.php?id=3&key=35)  
-
+|    Penerbit  |    [ANDI PUBLISHER](https://www.bukukita.com/searchresult.php?id=3&key=35)  |
+| Tanggal Terbit |  2012 |
+| Jumlah Halaman |  452  |
+| Berat        |    604 gr    |
+| Jenis Cover  |    Soft Cover     |
+| Kategori     |    Web Programming     |
+| Bahasa       |    Indonesia      |
 
 
  <!-- Garis Lurus -->

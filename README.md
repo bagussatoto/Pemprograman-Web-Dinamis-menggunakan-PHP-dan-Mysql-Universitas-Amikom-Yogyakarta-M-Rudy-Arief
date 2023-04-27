@@ -84,6 +84,9 @@
 | Kategori     |    Web Programming     |
 | Bahasa       |    Indonesia      |
 |   Harga      | [Rp. 120.000](https://www.bukukita.com/Komputer-dan-Internet/Web-Programming/106418-Pemrograman-Web-Dinamis-Menggunakan-PHP-dan-MySQL.html)    |
+| Link pdf.    | [Buku Wed Dinamis]( )  |
+
+
 
 
  <!-- Garis Lurus -->

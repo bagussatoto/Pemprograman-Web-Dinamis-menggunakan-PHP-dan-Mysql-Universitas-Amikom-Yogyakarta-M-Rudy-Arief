@@ -60,7 +60,7 @@
 
      M Rudy Arief
      Dosen Informatika
-     Falkultas Ilmu Komputer
+     Fakultas Ilmu Komputer
      Universitas Amikom Yogyakarta
 
 

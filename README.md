@@ -47,8 +47,7 @@
      11. Database MySQL dan koneksi PHP 
      12. Pembuatan web sederhana 
      13. CMS (Content Management System) 
-     14. Studi kasus e-commerce toko buku online 
-     15. Studi kasus e-commerce toko handphone online
+     14. Studi kasus e-commerce toko buku
 
 
 <!-- Garis Lurus -->
